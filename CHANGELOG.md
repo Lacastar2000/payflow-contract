@@ -1,11 +1,11 @@
-# Changelog
+#Changelog
 
 All notable changes to the Payflow contracts. The format follows
 [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and the project uses
 [semantic versioning](https://semver.org/). Before 1.0, a minor version may
 change the contract interface.
 
-## [0.2.0] - 2026-10-09
+# # [0.2.0] - 2026-10-09
 
 Redeployed to testnet; the ids are in [`deployments/testnet.env`](deployments/testnet.env).
 
